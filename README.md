@@ -1,38 +1,33 @@
-Hi 👋, I'm Bhuvaneshwaran M
-💼 I am a seasoned Game Developer with over 7+ years of experience in Unity3D and Unreal Editor For Fortnite (UEFN).
-📧 How to reach me 1022bhuvanesh@gmail.com
-About My Experience
-I am an expert in advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
+Hi 👋, I'm Bhuvaneshwaran M A seasoned Game Developer with over 7+ years of experience in Unity3D and Unreal Editor For Fortnite (UEFN).
 
-My Projects
-Unreal Engine Projects
-GUESS WHO in Fortnite: Developed a new "Best of 5" game mode, a character selection system, and a UI/UX upgrade for this Fortnite map using Verse and Unreal Editor.
+About Me My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
-Unity Projects
-Multiplayer Trivia Boxing Game: A two-player competitive trivia game that blends fast-paced knowledge checks with boxing-themed combat. I architected the Firebase backend to serve CBSE syllabus trivia questions and manage real-time PvP game logic.
+My Experience Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present)
 
-Multilingual Avatar-Guided System: Developed a system with multilingual avatar-guided instructions to explain digital banking tools. Integrated voice-based query processing and gamified AR training, enhancing agent engagement and enabling analytics-driven content iteration.
+Implemented a new "Best of 5" game mode, which increased playtime by 5 minutes in the GUESS WHO map.
 
-G-Walk Game: A project developed for a global pharmaceutical company to enhance team bonding. It was built for both web and mobile platforms with a back-end for real-time analytics.
+Developed a system to choose a random character, which increased playtime by 1 minute and the map's rating by 0.1.
 
-Wondrous Woods: A mobile game developed for the Tamil Nadu Forest Department to teach kids about wildlife.
+Upgraded the UI/UX of the entire game, leading to a 0.1 increase in the map's rating.
 
-E-Junction (An interactive kiosk): An interactive 3D kiosk application for a prominent real estate company to showcase their property.
+Unity Developer at Hornbillfx Pvt. Ltd. (February 2018 - April 2025)
 
-Annam Game: A 3D cooking game for mobile, developed for a TV show.
+Joined as a Unity Developer and was promoted to Lead Game Developer.
 
-E-Learning Applications: Multiple applications for the education sector, developed for an e-learning company.
+Featured Projects Project Name
 
-Virtual Science Lab: A virtual lab application for the education sector.
+Description
 
-Virtual Manufacturing Plant: A virtual manufacturing plant for the corporate sector.
+Multiplayer Trivia Boxing Game
 
-Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhuvaneshwaran" height="30" width="40" />
-</a>
-<a href="https://1022bhuvanesh.wixsite.com/portfolio" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://img.icons8.com/%3Fsize%3D100%26id%3Dt5dDk7T2A8qP%26format%3Dpng%26color%3D000000" alt="Bhuvaneshwaran" height="30" width="40" />
-</a>
-</p>
+A two-player competitive trivia game that blends fast-paced knowledge checks with arcade combat visuals.
+
+GUESS WHO in Fortnite
+
+A game mode developed with Verse and Unreal Editor that features new gameplay mechanics and an upgraded UI/UX.
+
+Contact & Portfolio Email: 1022bhuvanesh@gmail.com
+
+LinkedIn: linkedin.com/in/bhuvaneshwaran-m-76588563
+
+Portfolio: 1022bhuvanesh.wixsite.com/portfolio
