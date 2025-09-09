@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-<h1 align="center">Hi 👋, I'm Bhuvaneshwaran M</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="_blank">Bhuvaneshwaran M</a>
 <p align="left">
 
 <h3>
@@ -14,6 +14,11 @@
 📄 Know about my experiences: I am an expert in advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 </h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhuvaneshwaran" height="30" width="40" /></a>
+</p>
 
 Here are some of my recent projects:
 <div align="center">
