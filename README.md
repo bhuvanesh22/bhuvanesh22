@@ -3,7 +3,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="_blank">Bhuvaneshwaran M</a>
-<p align="left"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dbhuvaneshwaran%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Bhuvaneshwaran" /> </p>
+<p align="left"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dbhuvaneswaran%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Bhuvaneshwaran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dbhuvaneshwaran" alt="Bhuvaneshwaran" /></a> </p>
 
