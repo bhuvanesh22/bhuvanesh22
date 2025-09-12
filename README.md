@@ -22,7 +22,7 @@ Multiplayer Trivia Boxing Game
 
 A two-player competitive trivia game that blends fast-paced knowledge checks with arcade combat visuals.
 
-GUESS WHO in Fortnite
+<b>GUESS WHO in Fortnite</b>
 
 A game mode developed with Verse and Unreal Editor that features new gameplay mechanics and an upgraded UI/UX.
 
