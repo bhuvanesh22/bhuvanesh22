@@ -8,8 +8,9 @@
 <h2>
   
 - 📫 To reach me :
-      - **1022bhuvanesh@gmail.com** or
-      - [LinkedIn](linkedin.com/in/bhuvaneshwaran-m-76588563)
+      Mail at **1022bhuvanesh@gmail.com** <br/>
+      or<br/>
+      Connect at : [LinkedIn](linkedin.com/in/bhuvaneshwaran-m-76588563)
 
 - 📄 Know about my experiences in [ My Resume ](https://github.com/bhuvanesh22/bhuvanesh22/blob/b4d8f2037983873c5b472ed5db6adf2d22cc07eb/Bhuvanesh_Resume_7YOE.pdf)
   
