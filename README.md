@@ -25,12 +25,12 @@
   -  Developed a system to choose a random character, which increases the Play time by 1 minute and rating by 0.1 in the GUESS WHO map using Verse and Unreal Editor for Fortnite.<br/>
   -  Upgraded the UI and UX of the whole game, which increases the rating by 0.1 in the GUESS WHO map using Verse and Unreal Editor for Fortnite.
 
-<p align="left"> Developed a system to choose a random character, which increased playtime by 1 minute and the map's rating by 0.1.
-
-<p align="left"> Upgraded the UI/UX of the entire game, leading to a 0.1 increase in the map's rating.
-
-<p align="left"> Unity Developer at Hornbillfx Pvt. Ltd. (February 2018 - April 2025)
-
+<h3 align="centre"> Unity Developer at Hornbillfx Pvt. Ltd. (February 2018 - April 2025) </h3>
+<h3 align="left"> Responsiblities </h3>
+<p align="left"> -  Joined as a Unity Developer and got promoted to Lead Game Developer in September 2023, and led a cross-functional team to oversee all aspects of Game Production, Sprint Management, and Task Scheduling.<br/>
+  -  Served as a developer to actively contribute to the implementation of core game logic, animations, visual effects, and backend systems, including authentication, analytics, remote configuration, cloud storage, and real-time databases.<br/>
+  -  Led the publishing process across various app stores, ensuring smooth deployment and integration of a range of game genres, including 2D, 3D, WebGL, top-down, card games, and visual novels using techniques like URP and Photon, etc </p>
+  
 <p align="left"> Joined as a Unity Developer and was promoted to Lead Game Developer.
 
 <p align="left"> Featured Projects Project Name
