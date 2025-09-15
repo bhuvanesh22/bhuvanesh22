@@ -1,4 +1,4 @@
-<div align="center">
+
 
 
 <br/>
@@ -32,9 +32,9 @@
   -  Led the publishing process across various app stores, ensuring smooth deployment and integration of a range of game genres, including 2D, 3D, WebGL, top-down, card games, and visual novels using techniques like URP and Photon, etc </p>
 <h3 align="left"> Projects </h3>
 
-[ Makkalin Mudhalvar ](https://play.google.com/store/apps/details?id=com.thepenindia.namadhu_dravidam&hl=en_IN)
-[ Guess In 10 ](https://play.google.com/store/apps/details?id=com.skillmatics.guessin10&hl=en)
-[ FairsideStories](https://fairside-stories.en.softonic.com/android)
-[ Harmony: Heroes of Elephantia](https://play.google.com/store/apps/details?id=com.CincinnatiZoo.Harmony&hl=en_IN)
-[ GrammeenGuru](https://play.google.com/store/apps/details?id=com.GrameenFoundation.GrameenGuru&hl=en_IN)
+ - [ Makkalin Mudhalvar ](https://play.google.com/store/apps/details?id=com.thepenindia.namadhu_dravidam&hl=en_IN)
+ - [ Guess In 10 ](https://play.google.com/store/apps/details?id=com.skillmatics.guessin10&hl=en)
+ - [ FairsideStories](https://fairside-stories.en.softonic.com/android)
+ - [ Harmony: Heroes of Elephantia](https://play.google.com/store/apps/details?id=com.CincinnatiZoo.Harmony&hl=en_IN)
+ - [ GrammeenGuru](https://play.google.com/store/apps/details?id=com.GrameenFoundation.GrameenGuru&hl=en_IN)
  
