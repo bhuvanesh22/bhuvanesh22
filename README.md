@@ -30,3 +30,7 @@
 <p align="left"> -  Joined as a Unity Developer and got promoted to Lead Game Developer in September 2023, and led a cross-functional team to oversee all aspects of Game Production, Sprint Management, and Task Scheduling.<br/>
   -  Served as a developer to actively contribute to the implementation of core game logic, animations, visual effects, and backend systems, including authentication, analytics, remote configuration, cloud storage, and real-time databases.<br/>
   -  Led the publishing process across various app stores, ensuring smooth deployment and integration of a range of game genres, including 2D, 3D, WebGL, top-down, card games, and visual novels using techniques like URP and Photon, etc </p>
+<h3 align="left"> Projects </h3>
+<p align="left"> 
+  -  [Makkalin Mudhalvar] (https://apps.apple.com/in/app/makkalin-mudhalvar/id6504998018), Guess In 10, FairsideStories, Harmony: Heroes of Elephantia, GrammeenGuru
+ 
