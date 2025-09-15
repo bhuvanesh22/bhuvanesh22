@@ -31,23 +31,6 @@
 <p align="left"> -  Joined as a Unity Developer and got promoted to Lead Game Developer in September 2023, and led a cross-functional team to oversee all aspects of Game Production, Sprint Management, and Task Scheduling.<br/>
   -  Served as a developer to actively contribute to the implementation of core game logic, animations, visual effects, and backend systems, including authentication, analytics, remote configuration, cloud storage, and real-time databases.<br/>
   -  Led the publishing process across various app stores, ensuring smooth deployment and integration of a range of game genres, including 2D, 3D, WebGL, top-down, card games, and visual novels using techniques like URP and Photon, etc </p>
-  
-<p align="left"> Joined as a Unity Developer and was promoted to Lead Game Developer.
-
-<p align="left"> Featured Projects Project Name
-
-<p align="left"> Description
-
-<p align="left"> Multiplayer Trivia Boxing Game
-
-<p align="left"> A two-player competitive trivia game that blends fast-paced knowledge checks with arcade combat visuals.
-
-<p align="left"> <b>GUESS WHO in Fortnite</b>
-
-<p align="left"> A game mode developed with Verse and Unreal Editor that features new gameplay mechanics and an upgraded UI/UX.
-</p>
-
-Contact & Portfolio Email: 
 
 LinkedIn: linkedin.com/in/bhuvaneshwaran-m-76588563
 
