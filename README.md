@@ -21,8 +21,8 @@
 <h3 align="centre">  Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present) </h3>
 <h3 align="left"> Responsiblities </h3>
 <p align="left"> -  Implemented a new mode where players can play BEST of 5, which increases the Play time by 5
- minutes in the GUESS WHO map using Verse and Unreal Editor for Fortnite.
-  -  Developed a system to choose a random character, which increases the Play time by 1 minute and rating by 0.1 in the GUESS WHO map using Verse and Unreal Editor for Fortnite.
+ minutes in the GUESS WHO map using Verse and Unreal Editor for Fortnite.<br/>
+  -  Developed a system to choose a random character, which increases the Play time by 1 minute and rating by 0.1 in the GUESS WHO map using Verse and Unreal Editor for Fortnite.<br/>
   -  Upgraded the UI and UX of the whole game, which increases the rating by 0.1 in the GUESS WHO map using Verse and Unreal Editor for Fortnite.
 
 <p align="left"> Developed a system to choose a random character, which increased playtime by 1 minute and the map's rating by 0.1.
