@@ -15,10 +15,10 @@
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=bhuvanesh22&theme=dracula"> -->
 
 <h2 align="left"> About Me: </h2> 
-<p align="left">    My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
+<p align="centre">    My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 <h2 align="left"> My Experience: </h2> 
-<h3 align="left">  Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present) </h3>
+<h3 align="centre">  Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present) </h3>
 <h3 align="left"> Responsiblities
 <p align="left"> Implemented a new mode where players can play BEST of 5, which increases the Play time by 5
  minutes in the GUESS WHO map using Verse and Unreal Editor for Fortnite.
