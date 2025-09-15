@@ -1,6 +1,6 @@
 <div align="center">
 
- [![MastHead](https://github.com/bhuvanesh22/bhuvanesh22/blob/267259c18eb6d6d6813ccc32befc4635b1f2bf2a/dp.jpeg)](https://bhuvanesh22.github.io/)
+ <!--[![MastHead](https://github.com/bhuvanesh22/bhuvanesh22/blob/267259c18eb6d6d6813ccc32befc4635b1f2bf2a/dp.jpeg)](https://bhuvanesh22.github.io/) -->
 
 <br/>
 <br/>
@@ -13,9 +13,9 @@
 - 📄 Know about my experiences in [My Resume](https://github.com/bhuvanesh22/bhuvanesh22/blob/b4d8f2037983873c5b472ed5db6adf2d22cc07eb/Bhuvanesh_Resume_7YOE.pdf)
   
  </h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=bhuvanesh22&theme=dracula">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=bhuvanesh22&theme=dracula"> -->
 
-<h3 align="left"> About Me : </h3> <p align="left">  My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
+<h3 align="left"> About Me: </h3> <p align="left">  My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 <p align="left"> My Experience Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present)
 
