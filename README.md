@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm <a href=https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="_blank"> Bhuvaneshwaran M </a> </h1> A seasoned Game Developer with over 7+ years of experience in Unity3D and Unreal Editor For Fortnite (UEFN).
 
  
-<p align="left"> About Me My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.</p>
+<p align="left"> About Me My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 My Experience Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present)
 
