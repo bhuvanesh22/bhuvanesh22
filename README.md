@@ -7,8 +7,8 @@
 
 <h2>
   
-- 📫 To reach me :
-      Mail at **1022bhuvanesh@gmail.com** <br/>
+- 📫 To reach me :<br/>
+      Mail to **1022bhuvanesh@gmail.com** <br/>
       or<br/>
       Connect at : [LinkedIn](linkedin.com/in/bhuvaneshwaran-m-76588563)
 
