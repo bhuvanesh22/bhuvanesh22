@@ -6,6 +6,15 @@
 <br/>
 <h1 align="center">Hi 👋, I'm <a href=https://www.linkedin.com/in/bhuvaneshwaran-m-76588563/" target="_blank"> Bhuvaneshwaran M </a> </h1> A seasoned Game Developer with over 7+ years of experience in Unity3D and Unreal Editor For Fortnite (UEFN).
 
+<h3>
+  
+- 📫 How to reach me **1022bhuvanesh@gmail.com**
+
+- 📄 Know about my experiences [(https://github.com/bhuvanesh22/bhuvanesh22/blob/b4d8f2037983873c5b472ed5db6adf2d22cc07eb/Bhuvanesh_Resume_7YOE.pdf)](https://github.com/komalkuru/komalkuru/blob/main/Komal_Resume.pdf)
+  
+ </h3>
+
+
 <h3 align="left"> About Me : </h3> <p align="left">  My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 <p align="left"> My Experience Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present)
@@ -33,7 +42,7 @@
 <p align="left"> A game mode developed with Verse and Unreal Editor that features new gameplay mechanics and an upgraded UI/UX.
 </p>
 
-Contact & Portfolio Email: 1022bhuvanesh@gmail.com
+Contact & Portfolio Email: 
 
 LinkedIn: linkedin.com/in/bhuvaneshwaran-m-76588563
 
