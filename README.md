@@ -14,7 +14,7 @@
  </h3>
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=bhuvanesh22&theme=dracula"> -->
 
-<!-- <h3 align="left"> About Me: </h3> <p align="left">  My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
+<h3 align="left"> About Me: </h3> <p align="left">  My strengths include advanced game logic, API integration, and comprehensive game publishing. I am committed to continuous improvement and innovation in the rapidly evolving field of game development.
 
 <p align="left"> My Experience Unreal Developer at Visceral Technology Pvt. Ltd. (April 2025 - Present)
 
@@ -45,4 +45,4 @@ Contact & Portfolio Email:
 
 LinkedIn: linkedin.com/in/bhuvaneshwaran-m-76588563
 
-Portfolio: 1022bhuvanesh.wixsite.com/portfolio -->
+Portfolio: 1022bhuvanesh.wixsite.com/portfolio
